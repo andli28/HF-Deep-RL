@@ -7,4 +7,4 @@ Progress check: https://huggingface.co/spaces/ThomasSimonini/Check-my-progress-D
 
 Username is `andli28`
 
-Highly recommend~
+TODO: Upload Course Notes from Evernote to this repo, at the end of the course. (PDF)
